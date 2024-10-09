@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Calculator
+﻿namespace Calculator
 {
-    internal class Startup
+    internal class Program
     {
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }
